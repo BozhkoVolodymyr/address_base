@@ -1,0 +1,10 @@
+Flask
+Flask-Admin
+flask-security
+flask-mongoengine
+Flask-SQLAlchemy
+pymongo
+dnspython
+bcrypt
+python-dotenv
+
